@@ -14,18 +14,18 @@ The Modern Hostel Management System is a comprehensive application designed to f
 - Students can register and create an account to access the system.
 - Existing students can sign in using their credentials.
 
-![Signinup](./src/GithubImages/git2.png)
+![Signinup](./src/GithubImages/stdnt-signup.png)
 
 ### Room Booking
 - Students can view available rooms and book them based on their preferences and availability.
 
-![Room_book](./src/GithubImages/git3.png)
+![Room_book](./src/GithubImages/room.png)
 
-### Complaint Section
-- Students can submit complaints or issues they encounter within the hostel.
-- They can track the status of their complaints and receive updates.
+### Home Section
+- This shows the landing page of the students
 
-![Complains](./src/GithubImages/git6.png)
+![StudentHomeSection](./src/GithubImages/home-scrnshot.png)
+
 
 ### Feedback Section
 - Students can provide feedback on their experiences or suggest improvements.
@@ -36,7 +36,7 @@ The Modern Hostel Management System is a comprehensive application designed to f
 - The admin dashboard provides access to manage and monitor various aspects of the hostel management system.
 - Admins can view and manage registrations, room bookings, leave applications, attendance records, complaints, and feedback.
 
-![Admin](./src/GithubImages/git8.png)
+![Admin](./src/GithubImages/admiin_dchbd.png)
 
 ## Installation
 
